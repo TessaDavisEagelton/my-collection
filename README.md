@@ -1,2 +1,5 @@
 # my-collection
-collection of scripts
+
+This collection will contain python scripts
+
+
